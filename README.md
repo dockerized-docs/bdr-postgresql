@@ -10,7 +10,7 @@ Dockerzied BDR PostgreSQL documentation for offline use.
 # How to use this image #
 
 ```console
-$ docker run -d genadipost/dockerized-docs-bdr-postgresql
+$ docker run -d genadipost/bdr-postgresql
 ```
 
 You can test it by visiting http://container-ip:8080
